@@ -1,5 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/home/mika/Interviews/roman/src/main/scala/Main.scala:30:40: not enough arguments for method digitToRoman: (n: Int, p: Int)String.[0m
-[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter p.[0m
-[0m[[0m[31merror[0m] [0m[0m			case n => focus(p)(1) + digitToRoman(n - 5)[0m
-[0m[[0m[31merror[0m] [0m[0m			                                    ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m

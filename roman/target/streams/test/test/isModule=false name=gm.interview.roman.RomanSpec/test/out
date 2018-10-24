@@ -1,7 +1,0 @@
-[0m[[0m[0minfo[0m] [0m[0m[32mRomanSpec:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mRoman numerals[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should be straight-forward up to 3[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should have focal points[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should use the next radix for one smaller[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should progress the same as the first ones after a radix[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should go up to 3999[0m[0m
