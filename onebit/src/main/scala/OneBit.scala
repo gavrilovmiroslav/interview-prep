@@ -1,8 +1,8 @@
 package gm.interviews.onebit
 
-object Main {
+object `package` {
 
-  def main(args: Array[String]): Unit =
-    println("Hello World!")
+	def gray(a: Int, b: Int): Boolean =
+		// scala doesn't have log2, so...
+		(Math.log10(a ^ b) / Math.log10(2)) % 1 == 0
 }
-
