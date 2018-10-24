@@ -1,0 +1,13 @@
+
+# List cycles
+
+Write a function to determine whether a single-linked-list contains a cycle.
+
+Example of a loop:
+
+```
+	1 -> 2 -> 3 -> 4
+		 ^	       |
+		 |	       |
+		 -----------
+```
