@@ -1,0 +1,8 @@
+
+# Line intersections
+
+Write a function to determine whether two lines, given in `(slope, offset)` form intersect.
+
+```scala
+ intersect(2x + 5, 3x + 10) = true
+```
