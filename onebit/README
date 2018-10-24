@@ -1,0 +1,11 @@
+
+# One bit difference
+
+Given two integers, write a function to determine whether or not their binary representations differ by a single bit.
+
+Example:
+
+```scala
+ gray(0, 1) = true 		// 0000 vs 0001 -- differs in the first bit
+ gray(1, 2) = false		// 0001 vs 0010 -- differs in the first and second bit
+```
