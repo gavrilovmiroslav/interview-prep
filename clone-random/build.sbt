@@ -1,4 +1,4 @@
-name := "priority-queue"
+name := "clone-random"
 
 organization := "gm.interviews"
 
@@ -11,5 +11,5 @@ libraryDependencies ++= Seq(
   "org.scalacheck" %% "scalacheck" % "1.14.0" % "test" withSources() withJavadoc()
 )
 
-initialCommands := "import gm.interviews.priorityqueue._"
+initialCommands := "import gm.interviews.clonerandom._"
 
