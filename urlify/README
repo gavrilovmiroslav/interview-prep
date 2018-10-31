@@ -1,0 +1,12 @@
+
+# URLify
+
+Given a string, replace all spaces with '%20'. A buffer of appropriate size is given, as well as the real length of the original string.
+
+Example:
+
+```
+"hello world  ", 11
+"hello%20world"
+```
+
